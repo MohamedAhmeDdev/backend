@@ -1,6 +1,6 @@
 // const { json } = require('sequelize/types/sequelize.js')
-const users = require("../models/UserModels.js");
-const  Details =require('../models/UploadModals.js')
+const users = require("../models/UserModels");
+const  Details =require('../models/UploadModals')
 
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");

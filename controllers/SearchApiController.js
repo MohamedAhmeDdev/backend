@@ -1,5 +1,5 @@
 
-const  Details =require('../models/UploadModals.js')
+const  Details =require('../models/UploadModals')
 
 const { Op } = require("sequelize");
 

@@ -1,9 +1,9 @@
-const  Details =require('../models/UploadModals.js')
-const  Tours =require('../models/TourRequestModel.js')
+const  Details =require('../models/UploadModals')
+const  Tours =require('../models/TourRequestModel')
 const multer = require('multer')
 const path = require('path')
 const nodemailer =require('nodemailer')
-const users = require("../models/UserModels.js");
+const users = require("../models/UserModels");
 const util = require("util");
 
 

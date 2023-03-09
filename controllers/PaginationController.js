@@ -1,4 +1,4 @@
-const  Details =require('../models/UploadModals.js')
+const  Details =require('../models/UploadModals')
 const users = require('../models/UserModels.js')
 
 

@@ -1,5 +1,5 @@
 
-const users = require("../models/UserModels.js");
+const users = require("../models/UserModels");
 
 
 

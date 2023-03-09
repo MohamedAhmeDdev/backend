@@ -1,4 +1,4 @@
-const  Tour =require('../models/TourRequestModel.js')
+const  Tour =require('../models/TourRequestModel')
 
 
 
