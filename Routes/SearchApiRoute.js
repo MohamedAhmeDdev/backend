@@ -5,7 +5,7 @@ const {
     getSearch
     
     
-}=require('../controllers/SearchApicontroller')
+}=require('../controllers/SearchApiController')
 
 const router =express.Router()
 
